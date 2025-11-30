@@ -1,5 +1,5 @@
 
-# Data Warehouse & Analytics Project
+#✨ Data Warehouse & Analytics Project
 
 Welcome to my **Data Warehouse and Analytics Portfolio Project**! 🚀  
 This project covers the full lifecycle of building a modern data warehouse and delivering meaningful insights using SQL, ETL pipelines, and data modeling.
