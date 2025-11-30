@@ -47,3 +47,35 @@ This project demonstrates key skills in:
 
 ---
 
+## 📊 Analytics Goals
+
+This project provides insights into:
+
+- Customer behavior  
+- Sales performance  
+- Product analysis  
+- Business trends  
+
+For detailed requirements:  
+📄 `docs/requirements.md`
+
+---
+
+## 🌟 About Me
+
+Hi! I’m **Yasmein Ass'ad** — Data Analyst passionate about turning data into insights through SQL, Power BI, and modern data practices.
+
+---
+
+## ☕ Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+---
+
+## 🛡️ License
+
+This project is licensed under the **MIT License**.
+
