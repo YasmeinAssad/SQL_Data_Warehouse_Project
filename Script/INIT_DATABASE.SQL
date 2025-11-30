@@ -2,16 +2,25 @@
 =============================================================
 Create Database and Schemas
 =============================================================
+
 Script Purpose:
-    This script creates a new database named 'DataWarehouse' after checking if it already exists. 
-    If the database exists, it is dropped and recreated. Additionally, the script sets up three schemas 
-    within the database: 'bronze', 'silver', and 'gold'.
-	
+    - Checks if the 'DataWarehouse' database already exists.
+    - If it exists:
+        • Forces the database into SINGLE_USER mode.
+        • Rolls back active connections immediately.
+        • Drops the database completely.
+    - Creates a fresh 'DataWarehouse' database.
+    - Adds the required schemas:
+        • bronze  → Raw data layer
+        • silver  → Cleaned/standardized data layer
+        • gold    → Business-ready analytics layer
+
 WARNING:
-    Running this script will drop the entire 'DataWarehouse' database if it exists. 
-    All data in the database will be permanently deleted. Proceed with caution 
-    and ensure you have proper backups before running this script.
+    - This script will PERMANENTLY DELETE the 'DataWarehouse' database if it exists.
+    - All data, tables, procedures, and objects will be lost.
+    - Ensure backups are taken before executing this script.
 */
+
 
 USE master;
 GO
