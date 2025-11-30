@@ -71,8 +71,8 @@ Hi! I’m **Yasmein Ass'ad** — Data Analyst passionate about turning data into
 
 ## ☕ Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/yasmeinassad)](#)  
-[![Email](yasmeinassad@gmail.com)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmeinassad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmeinassad@gmail.com)
 
 ---
 
