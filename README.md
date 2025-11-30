@@ -1,3 +1,5 @@
+
+
 # SQL_Data_Warehouse_Project
 Building a data warehouse with SQL server including ETL process, data modeling and analytics. 
 # Data Warehouse & Analytics Project
@@ -69,9 +71,8 @@ Hi! I’m **Yasmein Ass'ad** — Data Analyst passionate about turning data into
 
 ## ☕ Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](www.linkedin.com/in/yasmeinassad)](#)  
+[![Email](yasmeinassad@gmail.com)](#)
 
 ---
 
